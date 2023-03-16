@@ -1,4 +1,9 @@
 - Linked-list representation of polynomials with arithmetic and extended Euclidean algorithm
-- Homology groups of Delta-complexes
+- Homology groups of graph Delta-complexes
 - Rational approximation (Basic Algorithms in Number Theory by Joe Buhler and Stan Wagon)
 - Compute maximal tree of a graph
+- Computing homology for finite simplical complexes:
+	- https://jeremykun.com/2013/04/03/homology-theory-a-primer/
+	- https://jeremykun.com/2013/04/10/computing-homology/
+	- https://jeremykun.com/2014/01/23/fixing-bugs-in-computing-homology/
+- 
