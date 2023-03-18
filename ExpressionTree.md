@@ -1,6 +1,15 @@
 - construct expression tree from postfix expression (with stack)
 - postfix expression from in-order traversal of expression tree
-- simplify expression tree
+- simplify expression tree (https://docs.sympy.org/latest/tutorials/intro-tutorial/simplification.html):
+	- cancel
+	- factor
+	- collect
+	- expand
+	- partial fraction decomposition
+	- trig
+	- powers
+	- exponentials
+	- logarithms
 - mapping variables in expression tree
 - (a-b) -> +,a,*,-1,b
 - associtativity and commutativity
