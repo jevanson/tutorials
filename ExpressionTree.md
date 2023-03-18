@@ -1,0 +1,7 @@
+- construct expression tree from postfix expression (with stack)
+- postfix expression from in-order traversal of expression tree
+- simplify expression tree
+- mapping variables in expression tree
+- (a-b) -> +,a,*,-1,b
+- associtativity and commutativity
+- level indicates operator precedence (operations at lower levels are evaluated later)
